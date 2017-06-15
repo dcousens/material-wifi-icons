@@ -8,3 +8,12 @@ TTF font generated with https://icomoon.io/app/
 Low resolution screenshot
 
 ![Preview](http://i.imgur.com/y6t0E9u.png)
+
+``` bash
+echo -e "\ue905\ue903\ue901\ue900"
+```
+
+If installed,  just copy paste:
+``` bash
+
+```

@@ -10,10 +10,10 @@ Low resolution screenshot
 ![Preview](http://i.imgur.com/y6t0E9u.png)
 
 ``` bash
-echo -e "\ue905\ue903\ue901\ue900"
+echo -e "\ue900\ue901\ue903\ue905"
 ```
 
 If installed,  just copy paste:
 ``` bash
-
+
 ```

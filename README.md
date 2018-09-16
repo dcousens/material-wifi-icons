@@ -21,5 +21,5 @@ If installed,  just copy paste:
 For CSS, see [material-wifi.css](material-wifi.css).
 
 
-#### LICENSE [Apache 2.0](LICENSE)
+# LICENSE [Apache 2.0](LICENSE)
 (as per the Material icons LICENSE)

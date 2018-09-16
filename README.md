@@ -1,8 +1,8 @@
 # material-wifi-icons
 
-Inspired and derived from [https://material.io/icons/](https://material.io/icons/#ic_network_wifi).
+Material-design icons from [https://material.io/icons/](https://material.io/icons/#ic_network_wifi).
+TTF font generated with https://icomoon.io/app/.
 
-TTF font generated with https://icomoon.io/app/
 
 ### Example
 Low resolution screenshot
@@ -18,7 +18,7 @@ If installed,  just copy paste:
 
 ```
 
-For CSS, see [material-wifi.css](material-wifi.css).
+For example CSS, see [material-wifi.css](material-wifi.css).
 
 
 # LICENSE [Apache 2.0](LICENSE)

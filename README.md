@@ -1,5 +1,7 @@
 # material-wifi-icons
 
+**Deprecated**: Use [fonts.google.com](https://fonts.google.com/icons?selected=Material+Icons:signal_wifi_statusbar_null:&icon.query=Network+Wifi&icon.platform=web) now
+
 Material-design icons from [https://material.io/icons/](https://material.io/icons/#ic_network_wifi).
 TTF font generated with https://icomoon.io/app/.
 
